@@ -1,2 +1,1 @@
-# kbot
-devops application from scratch
+# In progress
